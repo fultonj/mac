@@ -1,0 +1,20 @@
+# Colors
+foreground = #00FF00
+background = #000000
+cursor-color = #00FF00
+selection-background = #00FF00
+selection-foreground = #000000
+
+# gnu shortcuts
+keybind = ctrl+u=unbind
+keybind = ctrl+l=unbind
+
+# for ctrl d
+# quit-after-last-window-closed = true
+# confirm-close-surface = false
+# keybind = ctrl+d=close_surface
+
+shell-integration-features = no-cursor
+cursor-style-blink = false
+cursor-style = block
+
